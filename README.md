@@ -1,6 +1,3 @@
-Certainly! Below is an example of a Markdown file (`README.md`) that you can use to explain and present your Python script for PDF to DOCX conversion with OCR. Feel free to customize it according to your specific details.
-
-```markdown
 # PDF to DOCX Conversion with OCR
 
 This Python script converts PDF files to DOCX files using OCR (Optical Character Recognition) for text extraction.
