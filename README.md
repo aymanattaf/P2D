@@ -51,10 +51,3 @@ Feel free to contribute by opening issues or submitting pull requests. Your feed
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Copy this content into a `README.md` file in your project's root directory. Make sure to create a `LICENSE` file as well if you haven't already, and choose the appropriate license for your project.
-
-Replace placeholders like "pdf_to_docx_with_ocr.py" with the actual name of your Python script. Add any additional information or customization based on your project's specific details.
-
-Once done, commit and push your changes to GitHub. This README file will serve as a guide for users to understand, use, and contribute to your project.
